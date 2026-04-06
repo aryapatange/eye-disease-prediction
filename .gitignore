@@ -1,0 +1,31 @@
+# 🔹 Virtual environment
+tensorflow_env/
+venv/
+env/
+
+# 🔹 Python cache
+__pycache__/
+*.pyc
+
+# 🔹 Jupyter
+.ipynb_checkpoints/
+
+# 🔹 Dataset folders (VERY IMPORTANT)
+train/
+val/
+test/
+
+# 🔹 Model files (too large for GitHub)
+*.h5
+*.keras
+*.pkl
+
+# 🔹 Images (optional - ignore if not needed)
+*.png
+
+# 🔹 Environment variables
+.env
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
