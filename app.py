@@ -279,7 +279,7 @@ if app_mode == "🏠 Home":
     with c3:
         st.markdown('<div class="stat-card"><div class="stat-number">224×224</div><p class="stat-label">Input Resolution</p></div>', unsafe_allow_html=True)
     with c4:
-        st.markdown('<div class="stat-card"><div class="stat-number">15</div><p class="stat-label">Training Epochs</p></div>', unsafe_allow_html=True)
+        st.markdown('<div class="stat-card"><div class="stat-number">5</div><p class="stat-label">Training Epochs</p></div>', unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
 
